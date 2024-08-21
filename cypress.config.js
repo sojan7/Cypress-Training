@@ -12,7 +12,7 @@ module.exports = defineConfig({
   responseTimeout: 30000,
 
   e2e: {
-    baseUrl: "https://www.saucedemo.com/",
+    baseUrl: "https://demoqa.com/",
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
